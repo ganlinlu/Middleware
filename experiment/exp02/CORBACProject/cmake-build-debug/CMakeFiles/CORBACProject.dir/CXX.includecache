@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/workspace/CORBACProject/DataService.hh
+omniORB4/CORBA.h
+-
+
+/workspace/CORBACProject/ManagerCClient.cpp
+iostream
+-
+ManagerCClient.h
+/workspace/CORBACProject/ManagerCClient.h
+
+/workspace/CORBACProject/ManagerCClient.h
+DataService.hh
+/workspace/CORBACProject/DataService.hh
+omniORB4/CORBA.h
+-
+omniORB4/Naming.hh
+-
+string
+-
+

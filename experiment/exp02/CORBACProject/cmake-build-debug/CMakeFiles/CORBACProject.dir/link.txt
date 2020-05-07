@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/CORBACProject.dir/main.cpp.o CMakeFiles/CORBACProject.dir/ManagerCClient.cpp.o CMakeFiles/CORBACProject.dir/DataServiceSK.cc.o  -o CORBACProject -lomnithread -lomniORB4 -lomniDynamic4 -lomniCodeSets4 -lCOS4 -lCOSDynamic4 

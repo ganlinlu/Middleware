@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f1ec3cbb-945b-43db-b303-e0a9771cbc5a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="CORBAProject@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="CORBAProject@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="CORBAProject@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="CORBA_Project: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="CORBAProject@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="CORBA_Project: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="ScoreRecord: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bI65atbGJyru9swROV5Xl7ezcW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/CClient" />
+      <recent name="$PROJECT_DIR$/src/server" />
+      <recent name="$PROJECT_DIR$/lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ManagerServer">
+    <configuration name="ManagerJClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaClient.ManagerJClient" />
+      <module name="CORBAProject" />
+      <option name="PROGRAM_PARAMETERS" value="-ORBInitialHost localhost -ORBInitialPort 5001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaClient.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManagerServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="server.ManagerServer" />
+      <module name="CORBAProject" />
+      <option name="PROGRAM_PARAMETERS" value="-ORBInitialHost localhost -ORBInitialPort 5001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ManagerJClient" />
+      <item itemvalue="Application.ManagerServer" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ManagerServer" />
+        <item itemvalue="Application.ManagerJClient" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1ec3cbb-945b-43db-b303-e0a9771cbc5a" name="Default Changelist" comment="" />
+      <created>1588307078028</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588307078028</updated>
+      <workItem from="1588307082099" duration="2096000" />
+      <workItem from="1588322453918" duration="11108000" />
+      <workItem from="1588378239073" duration="6212000" />
+      <workItem from="1588385108272" duration="2200000" />
+      <workItem from="1588401963195" duration="2554000" />
+      <workItem from="1588405758953" duration="148000" />
+      <workItem from="1588412986924" duration="756000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="556" y="220" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588413018753">
+      <screen x="0" y="46" width="1920" height="1034" />
+    </state>
+    <state x="556" y="220" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.46.1920.1034@0.46.1920.1034" timestamp="1588413018753" />
+    <state x="659" y="360" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588386816584">
+      <screen x="0" y="46" width="1920" height="1034" />
+    </state>
+    <state x="659" y="360" key="#com.intellij.fileTypes.FileTypeChooser/0.46.1920.1034@0.46.1920.1034" timestamp="1588386816584" />
+    <state x="880" y="270" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1588382330932">
+      <screen x="0" y="46" width="1920" height="1034" />
+    </state>
+    <state x="880" y="270" key="#com.intellij.ide.macro.MacrosDialog/0.46.1920.1034@0.46.1920.1034" timestamp="1588382330932" />
+    <state x="769" y="268" key="#com.intellij.ide.util.MemberChooser" timestamp="1588403890055">
+      <screen x="0" y="46" width="1920" height="1034" />
+    </state>
+    <state x="769" y="268" key="#com.intellij.ide.util.MemberChooser/0.46.1920.1034@0.46.1920.1034" timestamp="1588403890055" />
+    <state x="607" y="358" key="FileChooserDialogImpl" timestamp="1588307524548">
+      <screen x="0" y="46" width="1920" height="1034" />
+    </state>
+    <state x="607" y="358" key="FileChooserDialogImpl/0.46.1920.1034@0.46.1920.1034" timestamp="1588307524548" />
+    <state width="902" height="269" key="GridCell.Tab.0.bottom" timestamp="1588414481949">
+      <screen x="0" y="46" width="1920" height="1034" />
+    </state>
+    <state width="902" height="269" key="GridCell.Tab.0.bottom/0.46.1920.1034@0.46.1920.1034" timestamp="1588414481949" />
+    <state width="902" height="269" key="GridCell.Tab.0.center" timestamp="1588414481949">
+      <screen x="0" y="46" width="1920" height="1034" />
+    </state>
+    <state width="902" height="269" key="GridCell.Tab.0.center/0.46.1920.1034@0.46.1920.1034" timestamp="1588414481949" />
+    <state width="902" height="269" key="GridCell.Tab.0.left" timestamp="1588414481948">
+      <screen x="0" y="46" width="1920" height="1034" />
+    </state>
+    <state width="902" height="269" key="GridCell.Tab.0.left/0.46.1920.1034@0.46.1920.1034" timestamp="1588414481948" />
+    <state width="902" height="269" key="GridCell.Tab.0.right" timestamp="1588414481949">
+      <screen x="0" y="46" width="1920" height="1034" />
+    </state>
+    <state width="902" height="269" key="GridCell.Tab.0.right/0.46.1920.1034@0.46.1920.1034" timestamp="1588414481949" />
+    <state x="450" y="194" key="SettingsEditor" timestamp="1588325866295">
+      <screen x="0" y="46" width="1920" height="1034" />
+    </state>
+    <state x="450" y="194" key="SettingsEditor/0.46.1920.1034@0.46.1920.1034" timestamp="1588325866295" />
+    <state x="694" y="367" key="com.intellij.database.dbimport.ImportUtil.MyDialog" timestamp="1588323987139">
+      <screen x="0" y="46" width="1920" height="1034" />
+    </state>
+    <state x="694" y="367" key="com.intellij.database.dbimport.ImportUtil.MyDialog/0.46.1920.1034@0.46.1920.1034" timestamp="1588323987139" />
+    <state x="722" y="369" width="476" height="347" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog" timestamp="1588322845588">
+      <screen x="0" y="46" width="1920" height="1034" />
+    </state>
+    <state x="722" y="369" width="476" height="347" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog/0.46.1920.1034@0.46.1920.1034" timestamp="1588322845588" />
+    <state x="96" y="146" width="1728" height="838" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1588403817315">
+      <screen x="0" y="46" width="1920" height="1034" />
+    </state>
+    <state x="96" y="146" width="1728" height="838" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.46.1920.1034@0.46.1920.1034" timestamp="1588403817315" />
+    <state x="626" y="385" key="com.intellij.ide.util.TipDialog" timestamp="1588413005554">
+      <screen x="0" y="46" width="1920" height="1034" />
+    </state>
+    <state x="626" y="385" key="com.intellij.ide.util.TipDialog/0.46.1920.1034@0.46.1920.1034" timestamp="1588413005554" />
+    <state x="657" y="181" key="refactoring.ChangeSignatureDialog" timestamp="1588329831318">
+      <screen x="0" y="46" width="1920" height="1034" />
+    </state>
+    <state x="657" y="181" key="refactoring.ChangeSignatureDialog/0.46.1920.1034@0.46.1920.1034" timestamp="1588329831318" />
+  </component>
+</project>

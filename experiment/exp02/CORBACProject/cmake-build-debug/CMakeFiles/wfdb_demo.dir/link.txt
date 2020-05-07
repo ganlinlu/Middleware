@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/wfdb_demo.dir/main.cpp.o  -o wfdb_demo  -L/opt/omniORB-4.2.3/build/lib -Wl,-rpath,/opt/omniORB-4.2.3/build/lib -lomniORB 

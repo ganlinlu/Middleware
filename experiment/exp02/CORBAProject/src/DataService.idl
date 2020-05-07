@@ -1,0 +1,13 @@
+module DataService {
+  struct operator {
+    string ID;
+    string StudentNumber;
+    string Classes;
+    string score;
+    boolean isInsert;
+  };
+
+  interface DataTransform{
+    string sendData(in operator name);
+  };
+};

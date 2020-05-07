@@ -1,0 +1,6 @@
+/usr/local/custom/Jetbrains/clion-2019.3.4/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /workspace/CORBACProject
+发现并使用omniidl编译所有的idl文件
+发现idl文件: /workspace/CORBACProject/DataService.idl
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /workspace/CORBACProject/cmake-build-debug
